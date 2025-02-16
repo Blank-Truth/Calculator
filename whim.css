@@ -1,0 +1,26 @@
+div {
+    border-style: inset;
+    border-width: 2px;
+    border-radius: 10px;
+    height: 230px;
+    width: 200px;
+    margin-left: 200px;
+    background-color: rgba(91, 128, 184, 0.97);
+} 
+
+body {
+    text-align: center;
+} 
+
+button {
+    width: 45px; 
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+} 
+
+#btn-display {
+    width: 191px;
+}
+
